@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kotlin-schetch.iml" filepath="$PROJECT_DIR$/.idea/modules/kotlin-schetch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kotlin-schetch_main.iml" filepath="$PROJECT_DIR$/.idea/modules/kotlin-schetch_main.iml" group="kotlin-schetch" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kotlin-schetch_test.iml" filepath="$PROJECT_DIR$/.idea/modules/kotlin-schetch_test.iml" group="kotlin-schetch" />
+    </modules>
+  </component>
+</project>
